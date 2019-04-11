@@ -1,0 +1,17 @@
+{
+  "name": "@nonpolynomial/lambda-server",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Sascha \"NonPolynomial\" Metz",
+  "bin": {
+    "lambda": "bin/index.js"
+  },
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "cuid": "^2.1.6",
+    "yargs": "^13.2.2"
+  }
+}
