@@ -1,8 +1,12 @@
 {
   "name": "@nonpolynomial/lambda-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "author": "Sascha \"NonPolynomial\" Metz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NonPolynomial/lambda-server.git"
+  },
   "bin": {
     "lambda": "bin/index.js"
   },
