@@ -1,6 +1,6 @@
 {
   "name": "@nonpolynomial/lambda-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "lib/index.js",
   "author": "Sascha \"NonPolynomial\" Metz",
   "bin": {
@@ -11,7 +11,6 @@
     "access": "public"
   },
   "dependencies": {
-    "cuid": "^2.1.6",
     "yargs": "^13.2.2"
   }
 }
